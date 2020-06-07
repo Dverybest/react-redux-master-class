@@ -1,0 +1,1 @@
+export const LOGIN_ACTION_KEY = "LOGIN_ACTION_KEY";
